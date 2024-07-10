@@ -1,5 +1,6 @@
 {
     "example": "Example text",
     "test2": "translation 2",
-    "testKey": "This is a test key to be created in english"
+    "testKey": "This is a test key to be created in english",
+    "anotherKey": "Another key"
 }
