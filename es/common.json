@@ -1,4 +1,5 @@
 {
     "example": "Texto de ejemplo",
-    "test2": "traducción 2"
+    "test2": "traducción 2",
+    "testKey": "esto es un mensaje de prueba"
 }
