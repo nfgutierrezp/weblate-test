@@ -3,5 +3,6 @@
     "test2": "translation 2",
     "testKey": "This is a test key to be created in english",
     "anotherKey": "Another key with modifications",
-    "key_validated_by_prod": "This key will be validated by product"
+    "key_validated_by_prod": "This key will be validated by product",
+    "keytest2": "blabbla"
 }
