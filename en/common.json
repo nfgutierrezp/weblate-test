@@ -6,5 +6,6 @@
     "key_validated_by_prod": "This key will be validated by product",
     "keytest2": "blabbla",
     "key_to_be_reviewed_by_product": "Key to be validated by product",
-    "test_3": "Test string 3"
+    "test_3": "Test string 3",
+    "another_key": "pending review"
 }
